@@ -1,11 +1,9 @@
 ### Olaa 👋
 
 ## Olá eu Sou Heleno Santos do Nascimento
-
-- 🔭 Analista de desenvolvimento JR
 - 🌱 Plantando conhecimento para colher resultados...
-- 📃 Tenho conhecimento em HTML / CSS / JavaScript / ReactJS/ AngularJS / NestJS 
-- 📚 Estudando AngularJs / Nestjs ...
+- 📃 HTML / CSS / JavaScript / ReactJS/ AngularJS / NestJS 
+
 
 <br>
 - <div align="center">
